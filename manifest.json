@@ -3,6 +3,7 @@
     "name": "Xiaomi miio vacuum STYJ02YM",
     "version": "1.0.0",
     "documentation": "",
+    "issue_tracker": "https://www.example.com",
     "requirements": [
         "construct==2.10.56",
         "python-miio==0.5.6"
